@@ -11,3 +11,13 @@ body {
 	width:500px;
 	height:300px;
 }
+
+#homeLink {
+	color: #aaf;
+	font-family: 'Lobster', cursive;
+	font-size: 2em;
+}
+
+#homeLink.hover {
+	color:red;
+}
